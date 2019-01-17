@@ -1,6 +1,6 @@
 /*
-
-
+Original:
+https://gist.github.com/rverton/e9d4ff65d703a9084e85fa9df083c679
 * (un)comment correct payload first (x86 or x64)!
 * 
 * $ gcc cowroot.c -o cowroot -pthread
